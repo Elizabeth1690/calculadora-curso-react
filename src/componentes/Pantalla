@@ -1,5 +1,0 @@
-function Pantalla() {
-  return <div></div>;
-}
-
-export default Pantalla;
